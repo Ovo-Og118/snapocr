@@ -4,7 +4,6 @@
 
 按下 `Ctrl+Alt+O` → 拖一个框 → 松手，文字已经在剪贴板里了。
 
-![SnapOCR](docs/screenshot.png)
 
 ## 用它
 
